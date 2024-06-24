@@ -1,0 +1,5 @@
+﻿  Cliente.cpp
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\ISEC\2º ano\2semestre\Sistemas Operativos 2\2Try\Trabalho Pratico\Cliente\Cliente.cpp(88,13): warning C4267: 'inicializando': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\ISEC\2º ano\2semestre\Sistemas Operativos 2\2Try\Trabalho Pratico\Cliente\Cliente.cpp(138,21): warning C4267: 'inicializando': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\ISEC\2º ano\2semestre\Sistemas Operativos 2\2Try\Trabalho Pratico\Cliente\Cliente.cpp(377): warning C4715: 'connectToServer': nem todos os caminhos de controle retornam um valor
+  Cliente.vcxproj -> C:\Users\diogo\OneDrive\Ambiente de Trabalho\ISEC\2º ano\2semestre\Sistemas Operativos 2\2Try\Trabalho Pratico\Cliente\x64\Debug\Cliente.exe

@@ -1,5 +1,16 @@
-# C++ WinApiStockMarket
+# C++ Win32Api StockMarket
 A simple 1 Server N Clients project holding three different programs, server, board and client. Mimicking a basic stock market
+<ul>
+  <b>Keywords</b> <br>
+  ➡️ C++ <br>
+  ➡️ Win32 API <br>
+  ➡️ SharedMemory <br>
+  ➡️ Named Pipes <br>
+  ➡️ MultiThreading <br>
+  ➡️ Synchronization <br>
+  
+ 
+</ul>
 <p>This project uses the tools concieved by the Win32 API, therefore it shloud only run on Windows Operating Systems.
 It is composed by three programs Bolsa(Server), Board and Client.
 
